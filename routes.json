@@ -1,0 +1,2947 @@
+[
+    {
+        "route_id": "d95c0441-f751-4612-92c3-41c0a7c44c41",
+        "route_code": "route_01",
+        "route_name": "09/09(11:00)ปลายทางสนามออกกำลังวัดกัลยาณ์",
+        "schedule_start": "2021-09-09T11:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "755b082a-e49b-4838-a4b8-6e3237d29600",
+                "stop_code": "Fish",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ต้นทาง หน้ารร. แสงอรุณ ประตู 2",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73844,
+                        100.49235
+                    ]
+                },
+                "latitude": 13.73844,
+                "longitude": 100.49235,
+                "created_date": "2021-09-02T02:32:21.232648Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:21.2326487Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "2784c0c4-207d-4a70-b7a2-9f3a1d1da632",
+                "stop_code": "Gloves",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าทางเข้าวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73925,
+                        100.49167
+                    ]
+                },
+                "latitude": 13.73925,
+                "longitude": 100.49167,
+                "created_date": "2021-09-02T02:32:57.355552Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:57.3555525Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fdc0cd0a-b409-4862-83d7-159c883ac1ca",
+                "stop_code": "Bacon",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าริมน้ำวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74014,
+                        100.49197
+                    ]
+                },
+                "latitude": 13.74014,
+                "longitude": 100.49197,
+                "created_date": "2021-09-02T02:33:29.7789787Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:29.7789791Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "56a5989b-b17e-420e-805e-ef8e432b3c9a",
+                "stop_code": "Chair",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง สนามออกกำลังวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74127,
+                        100.49107
+                    ]
+                },
+                "latitude": 13.74127,
+                "longitude": 100.49107,
+                "created_date": "2021-09-02T02:33:59.8983966Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:59.8983971Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-09-09T04:05:55.3891228Z",
+        "created_by": null,
+        "updated_date": "2021-09-09T04:05:55.3891228Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "8585ab66-541b-42f1-9506-c8551b9cf8f6",
+        "route_code": "route_01",
+        "route_name": "09/08(11:00)ปลายทางสนามออกกำลังวัดกัลยาณ์",
+        "schedule_start": "2021-08-09T11:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "755b082a-e49b-4838-a4b8-6e3237d29600",
+                "stop_code": "Fish",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ต้นทาง หน้ารร. แสงอรุณ ประตู 2",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73844,
+                        100.49235
+                    ]
+                },
+                "latitude": 13.73844,
+                "longitude": 100.49235,
+                "created_date": "2021-09-02T02:32:21.232648Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:21.2326487Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "2784c0c4-207d-4a70-b7a2-9f3a1d1da632",
+                "stop_code": "Gloves",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าทางเข้าวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73925,
+                        100.49167
+                    ]
+                },
+                "latitude": 13.73925,
+                "longitude": 100.49167,
+                "created_date": "2021-09-02T02:32:57.355552Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:57.3555525Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fdc0cd0a-b409-4862-83d7-159c883ac1ca",
+                "stop_code": "Bacon",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าริมน้ำวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74014,
+                        100.49197
+                    ]
+                },
+                "latitude": 13.74014,
+                "longitude": 100.49197,
+                "created_date": "2021-09-02T02:33:29.7789787Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:29.7789791Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "56a5989b-b17e-420e-805e-ef8e432b3c9a",
+                "stop_code": "Chair",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง สนามออกกำลังวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74127,
+                        100.49107
+                    ]
+                },
+                "latitude": 13.74127,
+                "longitude": 100.49107,
+                "created_date": "2021-09-02T02:33:59.8983966Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:59.8983971Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-09-09T02:40:02.4510637Z",
+        "created_by": null,
+        "updated_date": "2021-09-09T02:40:02.4510638Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "787d29c6-fad1-4815-af88-1d00636e810a",
+        "route_code": "route_01",
+        "route_name": "09/08 15:00 ปลายทางสนามออกกำลังวัดกัลยาณ์",
+        "schedule_start": "2021-09-08T15:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "755b082a-e49b-4838-a4b8-6e3237d29600",
+                "stop_code": "Fish",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ต้นทาง หน้ารร. แสงอรุณ ประตู 2",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73844,
+                        100.49235
+                    ]
+                },
+                "latitude": 13.73844,
+                "longitude": 100.49235,
+                "created_date": "2021-09-02T02:32:21.232648Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:21.2326487Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "2784c0c4-207d-4a70-b7a2-9f3a1d1da632",
+                "stop_code": "Gloves",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าทางเข้าวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73925,
+                        100.49167
+                    ]
+                },
+                "latitude": 13.73925,
+                "longitude": 100.49167,
+                "created_date": "2021-09-02T02:32:57.355552Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:57.3555525Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fdc0cd0a-b409-4862-83d7-159c883ac1ca",
+                "stop_code": "Bacon",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าริมน้ำวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74014,
+                        100.49197
+                    ]
+                },
+                "latitude": 13.74014,
+                "longitude": 100.49197,
+                "created_date": "2021-09-02T02:33:29.7789787Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:29.7789791Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "56a5989b-b17e-420e-805e-ef8e432b3c9a",
+                "stop_code": "Chair",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง สนามออกกำลังวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74127,
+                        100.49107
+                    ]
+                },
+                "latitude": 13.74127,
+                "longitude": 100.49107,
+                "created_date": "2021-09-02T02:33:59.8983966Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:59.8983971Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-09-08T06:04:45.2688977Z",
+        "created_by": null,
+        "updated_date": "2021-09-08T06:04:45.2688977Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "31d506f7-1aa4-4d2b-8356-fdae101a2762",
+        "route_code": "route_01",
+        "route_name": "09/07 21:00 ต้นทาง แสงอรุณ - ปลายทาง สนามออกกำลังวัดกัลยาณ์",
+        "schedule_start": "2021-09-07T21:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "755b082a-e49b-4838-a4b8-6e3237d29600",
+                "stop_code": "Fish",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ต้นทาง หน้ารร. แสงอรุณ ประตู 2",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73844,
+                        100.49235
+                    ]
+                },
+                "latitude": 13.73844,
+                "longitude": 100.49235,
+                "created_date": "2021-09-02T02:32:21.232648Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:21.2326487Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "2784c0c4-207d-4a70-b7a2-9f3a1d1da632",
+                "stop_code": "Gloves",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าทางเข้าวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73925,
+                        100.49167
+                    ]
+                },
+                "latitude": 13.73925,
+                "longitude": 100.49167,
+                "created_date": "2021-09-02T02:32:57.355552Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:57.3555525Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fdc0cd0a-b409-4862-83d7-159c883ac1ca",
+                "stop_code": "Bacon",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าริมน้ำวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74014,
+                        100.49197
+                    ]
+                },
+                "latitude": 13.74014,
+                "longitude": 100.49197,
+                "created_date": "2021-09-02T02:33:29.7789787Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:29.7789791Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "56a5989b-b17e-420e-805e-ef8e432b3c9a",
+                "stop_code": "Chair",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง สนามออกกำลังวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74127,
+                        100.49107
+                    ]
+                },
+                "latitude": 13.74127,
+                "longitude": 100.49107,
+                "created_date": "2021-09-02T02:33:59.8983966Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:59.8983971Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-09-07T13:58:55.4087574Z",
+        "created_by": null,
+        "updated_date": "2021-09-07T13:58:55.4087576Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "569f3f72-016f-46ed-960d-f3e1425adeff",
+        "route_code": "route_01",
+        "route_name": "09/07 19:00 ต้นทาง แสงอรุณ - ปลายทาง สนามออกกำลังวัดกัลยาณ์",
+        "schedule_start": "2021-09-07T19:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "755b082a-e49b-4838-a4b8-6e3237d29600",
+                "stop_code": "Fish",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ต้นทาง หน้ารร. แสงอรุณ ประตู 2",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73844,
+                        100.49235
+                    ]
+                },
+                "latitude": 13.73844,
+                "longitude": 100.49235,
+                "created_date": "2021-09-02T02:32:21.232648Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:21.2326487Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "2784c0c4-207d-4a70-b7a2-9f3a1d1da632",
+                "stop_code": "Gloves",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าทางเข้าวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73925,
+                        100.49167
+                    ]
+                },
+                "latitude": 13.73925,
+                "longitude": 100.49167,
+                "created_date": "2021-09-02T02:32:57.355552Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:57.3555525Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fdc0cd0a-b409-4862-83d7-159c883ac1ca",
+                "stop_code": "Bacon",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าริมน้ำวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74014,
+                        100.49197
+                    ]
+                },
+                "latitude": 13.74014,
+                "longitude": 100.49197,
+                "created_date": "2021-09-02T02:33:29.7789787Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:29.7789791Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "56a5989b-b17e-420e-805e-ef8e432b3c9a",
+                "stop_code": "Chair",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง สนามออกกำลังวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74127,
+                        100.49107
+                    ]
+                },
+                "latitude": 13.74127,
+                "longitude": 100.49107,
+                "created_date": "2021-09-02T02:33:59.8983966Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:59.8983971Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-09-07T12:42:51.7360883Z",
+        "created_by": null,
+        "updated_date": "2021-09-07T12:42:51.7360883Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "d583c63c-1656-4511-be33-6b587a00b70c",
+        "route_code": "route_01",
+        "route_name": "09/07 ต้นทาง หน้ารร. แสงอรุณ ประตู 2 - ปลายทาง สนามออกกำลังวัดกัลยาณ์",
+        "schedule_start": "2021-09-07T13:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "755b082a-e49b-4838-a4b8-6e3237d29600",
+                "stop_code": "Fish",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ต้นทาง หน้ารร. แสงอรุณ ประตู 2",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73844,
+                        100.49235
+                    ]
+                },
+                "latitude": 13.73844,
+                "longitude": 100.49235,
+                "created_date": "2021-09-02T02:32:21.232648Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:21.2326487Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "2784c0c4-207d-4a70-b7a2-9f3a1d1da632",
+                "stop_code": "Gloves",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าทางเข้าวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73925,
+                        100.49167
+                    ]
+                },
+                "latitude": 13.73925,
+                "longitude": 100.49167,
+                "created_date": "2021-09-02T02:32:57.355552Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:57.3555525Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fdc0cd0a-b409-4862-83d7-159c883ac1ca",
+                "stop_code": "Bacon",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าริมน้ำวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74014,
+                        100.49197
+                    ]
+                },
+                "latitude": 13.74014,
+                "longitude": 100.49197,
+                "created_date": "2021-09-02T02:33:29.7789787Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:29.7789791Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "56a5989b-b17e-420e-805e-ef8e432b3c9a",
+                "stop_code": "Chair",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง สนามออกกำลังวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74127,
+                        100.49107
+                    ]
+                },
+                "latitude": 13.74127,
+                "longitude": 100.49107,
+                "created_date": "2021-09-02T02:33:59.8983966Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:59.8983971Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-09-07T05:54:29.6098492Z",
+        "created_by": null,
+        "updated_date": "2021-09-07T05:54:29.6098493Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "26aec451-4b8b-45be-a521-ad04ad966db3",
+        "route_code": "route_01",
+        "route_name": "09/03 13:00 ต้นทาง หน้ารร. แสงอรุณ ประตู 2 - ปลายทาง สนามออกกำลังวัดกัลยาณ์",
+        "schedule_start": "2021-09-03T13:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "755b082a-e49b-4838-a4b8-6e3237d29600",
+                "stop_code": "Fish",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ต้นทาง หน้ารร. แสงอรุณ ประตู 2",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73844,
+                        100.49235
+                    ]
+                },
+                "latitude": 13.73844,
+                "longitude": 100.49235,
+                "created_date": "2021-09-02T02:32:21.232648Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:21.2326487Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "2784c0c4-207d-4a70-b7a2-9f3a1d1da632",
+                "stop_code": "Gloves",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าทางเข้าวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73925,
+                        100.49167
+                    ]
+                },
+                "latitude": 13.73925,
+                "longitude": 100.49167,
+                "created_date": "2021-09-02T02:32:57.355552Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:57.3555525Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fdc0cd0a-b409-4862-83d7-159c883ac1ca",
+                "stop_code": "Bacon",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าริมน้ำวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74014,
+                        100.49197
+                    ]
+                },
+                "latitude": 13.74014,
+                "longitude": 100.49197,
+                "created_date": "2021-09-02T02:33:29.7789787Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:29.7789791Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "56a5989b-b17e-420e-805e-ef8e432b3c9a",
+                "stop_code": "Chair",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง สนามออกกำลังวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74127,
+                        100.49107
+                    ]
+                },
+                "latitude": 13.74127,
+                "longitude": 100.49107,
+                "created_date": "2021-09-02T02:33:59.8983966Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:59.8983971Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-09-03T05:44:10.1155919Z",
+        "created_by": null,
+        "updated_date": "2021-09-03T05:44:10.115592Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "d304666c-1944-4771-b0d3-e72912905f12",
+        "route_code": "route_01",
+        "route_name": "09/02 19:00 ต้นทาง หน้ารร. แสงอรุณ ประตู 2 - ปลายทาง สนามออกกำลังวัดกัลยาณ์",
+        "schedule_start": "2021-09-02T19:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "755b082a-e49b-4838-a4b8-6e3237d29600",
+                "stop_code": "Fish",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ต้นทาง หน้ารร. แสงอรุณ ประตู 2",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73844,
+                        100.49235
+                    ]
+                },
+                "latitude": 13.73844,
+                "longitude": 100.49235,
+                "created_date": "2021-09-02T02:32:21.232648Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:21.2326487Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "2784c0c4-207d-4a70-b7a2-9f3a1d1da632",
+                "stop_code": "Gloves",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าทางเข้าวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73925,
+                        100.49167
+                    ]
+                },
+                "latitude": 13.73925,
+                "longitude": 100.49167,
+                "created_date": "2021-09-02T02:32:57.355552Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:57.3555525Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fdc0cd0a-b409-4862-83d7-159c883ac1ca",
+                "stop_code": "Bacon",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าริมน้ำวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74014,
+                        100.49197
+                    ]
+                },
+                "latitude": 13.74014,
+                "longitude": 100.49197,
+                "created_date": "2021-09-02T02:33:29.7789787Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:29.7789791Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "56a5989b-b17e-420e-805e-ef8e432b3c9a",
+                "stop_code": "Chair",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง สนามออกกำลังวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74127,
+                        100.49107
+                    ]
+                },
+                "latitude": 13.74127,
+                "longitude": 100.49107,
+                "created_date": "2021-09-02T02:33:59.8983966Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:59.8983971Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-09-02T11:18:41.8609654Z",
+        "created_by": null,
+        "updated_date": "2021-09-02T11:18:41.8609655Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "c483f98d-1d7d-4bb5-b798-cd34cb59c327",
+        "route_code": "route_01",
+        "route_name": "Small Rubber Towels",
+        "schedule_start": "2021-09-02T19:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "755b082a-e49b-4838-a4b8-6e3237d29600",
+                "stop_code": "Fish",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ต้นทาง หน้ารร. แสงอรุณ ประตู 2",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73844,
+                        100.49235
+                    ]
+                },
+                "latitude": 13.73844,
+                "longitude": 100.49235,
+                "created_date": "2021-09-02T02:32:21.232648Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:21.2326487Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "2784c0c4-207d-4a70-b7a2-9f3a1d1da632",
+                "stop_code": "Gloves",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าทางเข้าวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73925,
+                        100.49167
+                    ]
+                },
+                "latitude": 13.73925,
+                "longitude": 100.49167,
+                "created_date": "2021-09-02T02:32:57.355552Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:57.3555525Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fdc0cd0a-b409-4862-83d7-159c883ac1ca",
+                "stop_code": "Bacon",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าริมน้ำวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74014,
+                        100.49197
+                    ]
+                },
+                "latitude": 13.74014,
+                "longitude": 100.49197,
+                "created_date": "2021-09-02T02:33:29.7789787Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:29.7789791Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "56a5989b-b17e-420e-805e-ef8e432b3c9a",
+                "stop_code": "Chair",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง สนามออกกำลังวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74127,
+                        100.49107
+                    ]
+                },
+                "latitude": 13.74127,
+                "longitude": 100.49107,
+                "created_date": "2021-09-02T02:33:59.8983966Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:59.8983971Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-09-02T11:18:13.1340604Z",
+        "created_by": null,
+        "updated_date": "2021-09-02T11:18:13.1340605Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "1c873095-f598-4b17-a75b-01b9225b361b",
+        "route_code": "route_01",
+        "route_name": "ป้าย ต้นทาง หน้ารร. แสงอรุณ ประตู 2 - ปลายทาง สนามออกกำลังวัดกัลยาณ์ 09/02",
+        "schedule_start": "2021-09-02T15:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "755b082a-e49b-4838-a4b8-6e3237d29600",
+                "stop_code": "Fish",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ต้นทาง หน้ารร. แสงอรุณ ประตู 2",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73844,
+                        100.49235
+                    ]
+                },
+                "latitude": 13.73844,
+                "longitude": 100.49235,
+                "created_date": "2021-09-02T02:32:21.232648Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:21.2326487Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "2784c0c4-207d-4a70-b7a2-9f3a1d1da632",
+                "stop_code": "Gloves",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าทางเข้าวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.73925,
+                        100.49167
+                    ]
+                },
+                "latitude": 13.73925,
+                "longitude": 100.49167,
+                "created_date": "2021-09-02T02:32:57.355552Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:32:57.3555525Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fdc0cd0a-b409-4862-83d7-159c883ac1ca",
+                "stop_code": "Bacon",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้าริมน้ำวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74014,
+                        100.49197
+                    ]
+                },
+                "latitude": 13.74014,
+                "longitude": 100.49197,
+                "created_date": "2021-09-02T02:33:29.7789787Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:29.7789791Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "56a5989b-b17e-420e-805e-ef8e432b3c9a",
+                "stop_code": "Chair",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง สนามออกกำลังวัดกัลยาณ์",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.74127,
+                        100.49107
+                    ]
+                },
+                "latitude": 13.74127,
+                "longitude": 100.49107,
+                "created_date": "2021-09-02T02:33:59.8983966Z",
+                "created_by": null,
+                "updated_date": "2021-09-02T02:33:59.8983971Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-09-02T02:35:48.5792839Z",
+        "created_by": null,
+        "updated_date": "2021-09-02T02:35:48.5792839Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "a4cecde7-8d8d-4bb7-88fb-85f2b0011a41",
+        "route_code": "route_01",
+        "route_name": "ป้าย สองแถวคาเฟ่ - ปลายทาง หน้าไอดิน กลิ่นเมา 01/09",
+        "schedule_start": "2021-09-01T15:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "d76568d2-28d4-43c0-9ea8-ee38df9d0654",
+                "stop_code": "Chicken",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้ายสองแถวคาเฟ่",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.6177,
+                        100.7036
+                    ]
+                },
+                "latitude": 13.6177,
+                "longitude": 100.7036,
+                "created_date": "2021-08-31T06:40:36.0228461Z",
+                "created_by": null,
+                "updated_date": "2021-08-31T06:40:36.0228465Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "d6a879fe-648c-4b5c-84a2-b2268ee1ec3b",
+                "stop_code": "Sausages",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้าย Cafe' Amazon บางพลี-กิ่งแก้ว",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.6193,
+                        100.7041
+                    ]
+                },
+                "latitude": 13.6193,
+                "longitude": 100.7041,
+                "created_date": "2021-08-31T06:41:58.618838Z",
+                "created_by": null,
+                "updated_date": "2021-08-31T06:41:58.6188384Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "0075d947-af1b-4b49-99de-d63497a9cc36",
+                "stop_code": "Cheese",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้าย บริษัท วีโก้อินดัสทริ จำกัด",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.6237,
+                        100.7055
+                    ]
+                },
+                "latitude": 13.6237,
+                "longitude": 100.7055,
+                "created_date": "2021-08-31T06:43:08.4311439Z",
+                "created_by": null,
+                "updated_date": "2021-08-31T06:43:08.4311443Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "a1b5f042-0db4-453d-af43-0db3085da415",
+                "stop_code": "Fish",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง หน้าไอดิน กลิ่นเมา",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.6277,
+                        100.7067
+                    ]
+                },
+                "latitude": 13.6277,
+                "longitude": 100.7067,
+                "created_date": "2021-09-01T04:32:51.2360392Z",
+                "created_by": null,
+                "updated_date": "2021-09-01T04:32:51.2360398Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-09-01T04:36:52.5220839Z",
+        "created_by": null,
+        "updated_date": "2021-09-01T04:36:52.5220839Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "4f616beb-8156-4e9f-b00e-112999bc2226",
+        "route_code": "route_01",
+        "route_name": "ป้าย สองแถวคาเฟ่ - บริษัท วีโก้อินดัสทริ 01/09",
+        "schedule_start": "2021-09-01T15:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "d76568d2-28d4-43c0-9ea8-ee38df9d0654",
+                "stop_code": "Chicken",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้ายสองแถวคาเฟ่",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.6177,
+                        100.7036
+                    ]
+                },
+                "latitude": 13.6177,
+                "longitude": 100.7036,
+                "created_date": "2021-08-31T06:40:36.0228461Z",
+                "created_by": null,
+                "updated_date": "2021-08-31T06:40:36.0228465Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "d6a879fe-648c-4b5c-84a2-b2268ee1ec3b",
+                "stop_code": "Sausages",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้าย Cafe' Amazon บางพลี-กิ่งแก้ว",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.6193,
+                        100.7041
+                    ]
+                },
+                "latitude": 13.6193,
+                "longitude": 100.7041,
+                "created_date": "2021-08-31T06:41:58.618838Z",
+                "created_by": null,
+                "updated_date": "2021-08-31T06:41:58.6188384Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "bcdfe559-3dc9-41c5-aa35-6adc35aba7f8",
+                "stop_code": "Mouse",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้าย บริษัท 108 โฮมซัพพลาย",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.6204,
+                        100.7045
+                    ]
+                },
+                "latitude": 13.6204,
+                "longitude": 100.7045,
+                "created_date": "2021-08-31T06:42:37.2640476Z",
+                "created_by": null,
+                "updated_date": "2021-08-31T06:42:37.2640479Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "0075d947-af1b-4b49-99de-d63497a9cc36",
+                "stop_code": "Cheese",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้าย บริษัท วีโก้อินดัสทริ จำกัด",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.6237,
+                        100.7055
+                    ]
+                },
+                "latitude": 13.6237,
+                "longitude": 100.7055,
+                "created_date": "2021-08-31T06:43:08.4311439Z",
+                "created_by": null,
+                "updated_date": "2021-08-31T06:43:08.4311443Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-09-01T00:34:27.5841171Z",
+        "created_by": null,
+        "updated_date": "2021-09-01T00:34:27.5841171Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "7cb02186-c122-4444-af97-6e1749f7e9b9",
+        "route_code": "route_01",
+        "route_name": "ป้าย สองแถวคาเฟ่ - บริษัท วีโก้อินดัสทริ 31/08",
+        "schedule_start": "2021-08-31T15:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "d76568d2-28d4-43c0-9ea8-ee38df9d0654",
+                "stop_code": "Chicken",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้ายสองแถวคาเฟ่",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.6177,
+                        100.7036
+                    ]
+                },
+                "latitude": 13.6177,
+                "longitude": 100.7036,
+                "created_date": "2021-08-31T06:40:36.0228461Z",
+                "created_by": null,
+                "updated_date": "2021-08-31T06:40:36.0228465Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "d6a879fe-648c-4b5c-84a2-b2268ee1ec3b",
+                "stop_code": "Sausages",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้าย Cafe' Amazon บางพลี-กิ่งแก้ว",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.6193,
+                        100.7041
+                    ]
+                },
+                "latitude": 13.6193,
+                "longitude": 100.7041,
+                "created_date": "2021-08-31T06:41:58.618838Z",
+                "created_by": null,
+                "updated_date": "2021-08-31T06:41:58.6188384Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "bcdfe559-3dc9-41c5-aa35-6adc35aba7f8",
+                "stop_code": "Mouse",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้าย บริษัท 108 โฮมซัพพลาย",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.6204,
+                        100.7045
+                    ]
+                },
+                "latitude": 13.6204,
+                "longitude": 100.7045,
+                "created_date": "2021-08-31T06:42:37.2640476Z",
+                "created_by": null,
+                "updated_date": "2021-08-31T06:42:37.2640479Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "0075d947-af1b-4b49-99de-d63497a9cc36",
+                "stop_code": "Cheese",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้าย บริษัท วีโก้อินดัสทริ จำกัด",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.6237,
+                        100.7055
+                    ]
+                },
+                "latitude": 13.6237,
+                "longitude": 100.7055,
+                "created_date": "2021-08-31T06:43:08.4311439Z",
+                "created_by": null,
+                "updated_date": "2021-08-31T06:43:08.4311443Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-08-31T06:46:19.4682857Z",
+        "created_by": null,
+        "updated_date": "2021-08-31T06:46:19.4682857Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "b267df25-1a14-497a-8f4a-290d15849606",
+        "route_code": "route_01",
+        "route_name": "Route27 18.00 ป้ายรถเมล์หน้าหมู่บ้าน the thamm3 > ปลายทาง ชาละวัน",
+        "schedule_start": "2021-08-27T18:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fe570b56-1af5-4475-89e9-00a4c6b6d448",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้ายรถเมล์หน้าหมู่บ้าน the thamm3",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7261494,
+                        100.7328487
+                    ]
+                },
+                "latitude": 13.7261494,
+                "longitude": 100.7328487,
+                "created_date": "2021-08-23T07:35:12.5722527Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:35:12.5722534Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "4fc7e7dd-b938-4242-ada5-8b2da38d9c30",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้า the thamm 1",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7263359,
+                        100.7301654
+                    ]
+                },
+                "latitude": 13.7263359,
+                "longitude": 100.7301654,
+                "created_date": "2021-08-23T07:43:50.9084554Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:43:50.9084557Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "3f67d31d-b663-469e-88b4-c1e5eae6e84a",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "อพาท์เม้นสีชม",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7268032,
+                        100.7271634
+                    ]
+                },
+                "latitude": 13.7268032,
+                "longitude": 100.7271634,
+                "created_date": "2021-08-23T07:46:33.1654101Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:46:33.1654105Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "8e472728-a5af-464a-8285-5476c80670bf",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง ชาละวัน",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7271434,
+                        100.7213996
+                    ]
+                },
+                "latitude": 13.7271434,
+                "longitude": 100.7213996,
+                "created_date": "2021-08-23T07:47:20.3866196Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:47:20.38662Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-08-27T10:46:36.8426213Z",
+        "created_by": null,
+        "updated_date": "2021-08-27T10:46:36.8426214Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "f93bbb93-c092-4d5e-9968-c366ca4ebd5b",
+        "route_code": "route_01",
+        "route_name": "Route27 17.00 ป้ายรถเมล์หน้าหมู่บ้าน the thamm3 > ปลายทาง ชาละวัน",
+        "schedule_start": "2021-08-27T17:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fe570b56-1af5-4475-89e9-00a4c6b6d448",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้ายรถเมล์หน้าหมู่บ้าน the thamm3",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7261494,
+                        100.7328487
+                    ]
+                },
+                "latitude": 13.7261494,
+                "longitude": 100.7328487,
+                "created_date": "2021-08-23T07:35:12.5722527Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:35:12.5722534Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "4fc7e7dd-b938-4242-ada5-8b2da38d9c30",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้า the thamm 1",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7263359,
+                        100.7301654
+                    ]
+                },
+                "latitude": 13.7263359,
+                "longitude": 100.7301654,
+                "created_date": "2021-08-23T07:43:50.9084554Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:43:50.9084557Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "3f67d31d-b663-469e-88b4-c1e5eae6e84a",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "อพาท์เม้นสีชม",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7268032,
+                        100.7271634
+                    ]
+                },
+                "latitude": 13.7268032,
+                "longitude": 100.7271634,
+                "created_date": "2021-08-23T07:46:33.1654101Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:46:33.1654105Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "8e472728-a5af-464a-8285-5476c80670bf",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง ชาละวัน",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7271434,
+                        100.7213996
+                    ]
+                },
+                "latitude": 13.7271434,
+                "longitude": 100.7213996,
+                "created_date": "2021-08-23T07:47:20.3866196Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:47:20.38662Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-08-27T10:11:14.4877186Z",
+        "created_by": null,
+        "updated_date": "2021-08-27T10:11:14.4877187Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "9a081623-fb00-47cc-b7f9-46872b22ac5d",
+        "route_code": "route_01",
+        "route_name": "Route27 ป้ายรถเมล์หน้าหมู่บ้าน the thamm3 > ปลายทาง ชาละวัน",
+        "schedule_start": "2021-08-27T10:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fe570b56-1af5-4475-89e9-00a4c6b6d448",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้ายรถเมล์หน้าหมู่บ้าน the thamm3",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7261494,
+                        100.7328487
+                    ]
+                },
+                "latitude": 13.7261494,
+                "longitude": 100.7328487,
+                "created_date": "2021-08-23T07:35:12.5722527Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:35:12.5722534Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "4fc7e7dd-b938-4242-ada5-8b2da38d9c30",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้า the thamm 1",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7263359,
+                        100.7301654
+                    ]
+                },
+                "latitude": 13.7263359,
+                "longitude": 100.7301654,
+                "created_date": "2021-08-23T07:43:50.9084554Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:43:50.9084557Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "3f67d31d-b663-469e-88b4-c1e5eae6e84a",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "อพาท์เม้นสีชม",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7268032,
+                        100.7271634
+                    ]
+                },
+                "latitude": 13.7268032,
+                "longitude": 100.7271634,
+                "created_date": "2021-08-23T07:46:33.1654101Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:46:33.1654105Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "8e472728-a5af-464a-8285-5476c80670bf",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง ชาละวัน",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7271434,
+                        100.7213996
+                    ]
+                },
+                "latitude": 13.7271434,
+                "longitude": 100.7213996,
+                "created_date": "2021-08-23T07:47:20.3866196Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:47:20.38662Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-08-27T06:12:44.8834018Z",
+        "created_by": null,
+        "updated_date": "2021-08-27T06:12:44.8834018Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "2e127990-a284-4f1a-bb9e-0d10b44e4b8f",
+        "route_code": "route_01",
+        "route_name": "Route ป้ายรถเมล์หน้าหมู่บ้าน the thamm3 > ปลายทาง ชาละวัน",
+        "schedule_start": "2021-08-25T13:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fe570b56-1af5-4475-89e9-00a4c6b6d448",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้ายรถเมล์หน้าหมู่บ้าน the thamm3",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7261494,
+                        100.7328487
+                    ]
+                },
+                "latitude": 13.7261494,
+                "longitude": 100.7328487,
+                "created_date": "2021-08-23T07:35:12.5722527Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:35:12.5722534Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "4fc7e7dd-b938-4242-ada5-8b2da38d9c30",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้า the thamm 1",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7263359,
+                        100.7301654
+                    ]
+                },
+                "latitude": 13.7263359,
+                "longitude": 100.7301654,
+                "created_date": "2021-08-23T07:43:50.9084554Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:43:50.9084557Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "3f67d31d-b663-469e-88b4-c1e5eae6e84a",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "อพาท์เม้นสีชม",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7268032,
+                        100.7271634
+                    ]
+                },
+                "latitude": 13.7268032,
+                "longitude": 100.7271634,
+                "created_date": "2021-08-23T07:46:33.1654101Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:46:33.1654105Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "8e472728-a5af-464a-8285-5476c80670bf",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง ชาละวัน",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7271434,
+                        100.7213996
+                    ]
+                },
+                "latitude": 13.7271434,
+                "longitude": 100.7213996,
+                "created_date": "2021-08-23T07:47:20.3866196Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:47:20.38662Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-08-25T07:46:11.34197Z",
+        "created_by": null,
+        "updated_date": "2021-08-25T07:46:11.34197Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "da3119c2-59cc-4335-bf77-1ca4ecdf383c",
+        "route_code": "route_01",
+        "route_name": "Refined Wooden Table",
+        "schedule_start": "2021-07-22T11:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "29a475ff-5b7d-4b80-a62d-4c28ac033503",
+                "stop_code": "Computer",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "Practical Steel Chair",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        -63.4039,
+                        129.9352
+                    ]
+                },
+                "latitude": 0,
+                "longitude": 0,
+                "created_date": "2021-08-09T05:46:20.254694Z",
+                "created_by": null,
+                "updated_date": "2021-08-09T05:46:20.254694Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "80dbafff-fe7d-4e2b-afdf-805c75bc1afd",
+                "stop_code": "Bike",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "Rustic Granite Computer",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        54.3143,
+                        84.8162
+                    ]
+                },
+                "latitude": 0,
+                "longitude": 0,
+                "created_date": "2021-08-09T08:05:04.916381Z",
+                "created_by": null,
+                "updated_date": "2021-08-09T08:05:04.936755Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-08-24T16:24:19.9337013Z",
+        "created_by": null,
+        "updated_date": "2021-08-24T16:24:19.9337014Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "c25393d3-d4c0-4f3c-953d-3288f63abae5",
+        "route_code": "route_01",
+        "route_name": "Route2 ป้ายรถเมล์หน้าหมู่บ้าน the thamm3 > ปลายทาง ชาละวัน",
+        "schedule_start": "2021-08-24T12:30:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fe570b56-1af5-4475-89e9-00a4c6b6d448",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้ายรถเมล์หน้าหมู่บ้าน the thamm3",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7261494,
+                        100.7328487
+                    ]
+                },
+                "latitude": 13.7261494,
+                "longitude": 100.7328487,
+                "created_date": "2021-08-23T07:35:12.5722527Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:35:12.5722534Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "4fc7e7dd-b938-4242-ada5-8b2da38d9c30",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้า the thamm 1",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7263359,
+                        100.7301654
+                    ]
+                },
+                "latitude": 13.7263359,
+                "longitude": 100.7301654,
+                "created_date": "2021-08-23T07:43:50.9084554Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:43:50.9084557Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "3f67d31d-b663-469e-88b4-c1e5eae6e84a",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "อพาท์เม้นสีชม",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7268032,
+                        100.7271634
+                    ]
+                },
+                "latitude": 13.7268032,
+                "longitude": 100.7271634,
+                "created_date": "2021-08-23T07:46:33.1654101Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:46:33.1654105Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "8e472728-a5af-464a-8285-5476c80670bf",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง ชาละวัน",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7271434,
+                        100.7213996
+                    ]
+                },
+                "latitude": 13.7271434,
+                "longitude": 100.7213996,
+                "created_date": "2021-08-23T07:47:20.3866196Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:47:20.38662Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-08-24T05:50:45.6986532Z",
+        "created_by": null,
+        "updated_date": "2021-08-24T05:50:45.6986533Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "448ac408-32de-4a39-962e-bf10f76a30ae",
+        "route_code": "route_01",
+        "route_name": "Route1 ป้ายรถเมล์หน้าหมู่บ้าน the thamm3 > ปลายทาง ชาละวัน",
+        "schedule_start": "2021-08-24T11:20:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fe570b56-1af5-4475-89e9-00a4c6b6d448",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้ายรถเมล์หน้าหมู่บ้าน the thamm3",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7261494,
+                        100.7328487
+                    ]
+                },
+                "latitude": 13.7261494,
+                "longitude": 100.7328487,
+                "created_date": "2021-08-23T07:35:12.5722527Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:35:12.5722534Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "4fc7e7dd-b938-4242-ada5-8b2da38d9c30",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้า the thamm 1",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7263359,
+                        100.7301654
+                    ]
+                },
+                "latitude": 13.7263359,
+                "longitude": 100.7301654,
+                "created_date": "2021-08-23T07:43:50.9084554Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:43:50.9084557Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "3f67d31d-b663-469e-88b4-c1e5eae6e84a",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "อพาท์เม้นสีชม",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7268032,
+                        100.7271634
+                    ]
+                },
+                "latitude": 13.7268032,
+                "longitude": 100.7271634,
+                "created_date": "2021-08-23T07:46:33.1654101Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:46:33.1654105Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "8e472728-a5af-464a-8285-5476c80670bf",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง ชาละวัน",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7271434,
+                        100.7213996
+                    ]
+                },
+                "latitude": 13.7271434,
+                "longitude": 100.7213996,
+                "created_date": "2021-08-23T07:47:20.3866196Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:47:20.38662Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-08-24T04:36:46.5223815Z",
+        "created_by": null,
+        "updated_date": "2021-08-24T04:36:46.5223817Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "bb661d7b-1fd4-4218-98b4-0a79daac9b71",
+        "route_code": "route_01",
+        "route_name": "Route ป้ายรถเมล์หน้าหมู่บ้าน the thamm3 > ปลายทาง ชาละวัน",
+        "schedule_start": "2021-08-24T13:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fe570b56-1af5-4475-89e9-00a4c6b6d448",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้ายรถเมล์หน้าหมู่บ้าน the thamm3",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7261494,
+                        100.7328487
+                    ]
+                },
+                "latitude": 13.7261494,
+                "longitude": 100.7328487,
+                "created_date": "2021-08-23T07:35:12.5722527Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:35:12.5722534Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "4fc7e7dd-b938-4242-ada5-8b2da38d9c30",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้า the thamm 1",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7263359,
+                        100.7301654
+                    ]
+                },
+                "latitude": 13.7263359,
+                "longitude": 100.7301654,
+                "created_date": "2021-08-23T07:43:50.9084554Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:43:50.9084557Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "3f67d31d-b663-469e-88b4-c1e5eae6e84a",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "อพาท์เม้นสีชม",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7268032,
+                        100.7271634
+                    ]
+                },
+                "latitude": 13.7268032,
+                "longitude": 100.7271634,
+                "created_date": "2021-08-23T07:46:33.1654101Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:46:33.1654105Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "8e472728-a5af-464a-8285-5476c80670bf",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง ชาละวัน",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7271434,
+                        100.7213996
+                    ]
+                },
+                "latitude": 13.7271434,
+                "longitude": 100.7213996,
+                "created_date": "2021-08-23T07:47:20.3866196Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:47:20.38662Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-08-24T04:08:05.3113014Z",
+        "created_by": null,
+        "updated_date": "2021-08-24T04:08:05.3113014Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "171c781e-4486-456f-bc65-c5b9c686b6af",
+        "route_code": "route_01",
+        "route_name": "Route บ้านบอส > ปลายทาง ชาละวัน",
+        "schedule_start": "2021-08-23T17:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "2957dc17-0eea-4484-a6aa-1069f49a29ca",
+                "stop_code": "Car",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "บ้านบอส",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7249144,
+                        100.7334354
+                    ]
+                },
+                "latitude": 13.7249144,
+                "longitude": 100.7334354,
+                "created_date": "2021-08-23T07:23:14.9721594Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:23:14.9721597Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fe570b56-1af5-4475-89e9-00a4c6b6d448",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้ายรถเมล์หน้าหมู่บ้าน the thamm3",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7261494,
+                        100.7328487
+                    ]
+                },
+                "latitude": 13.7261494,
+                "longitude": 100.7328487,
+                "created_date": "2021-08-23T07:35:12.5722527Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:35:12.5722534Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "4fc7e7dd-b938-4242-ada5-8b2da38d9c30",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้า the thamm 1",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7263359,
+                        100.7301654
+                    ]
+                },
+                "latitude": 13.7263359,
+                "longitude": 100.7301654,
+                "created_date": "2021-08-23T07:43:50.9084554Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:43:50.9084557Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "3f67d31d-b663-469e-88b4-c1e5eae6e84a",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "อพาท์เม้นสีชม",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7268032,
+                        100.7271634
+                    ]
+                },
+                "latitude": 13.7268032,
+                "longitude": 100.7271634,
+                "created_date": "2021-08-23T07:46:33.1654101Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:46:33.1654105Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "8e472728-a5af-464a-8285-5476c80670bf",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ปลายทาง ชาละวัน",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7271434,
+                        100.7213996
+                    ]
+                },
+                "latitude": 13.7271434,
+                "longitude": 100.7213996,
+                "created_date": "2021-08-23T07:47:20.3866196Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:47:20.38662Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-08-23T08:16:10.0980445Z",
+        "created_by": null,
+        "updated_date": "2021-08-23T08:16:10.0980446Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "d3cefc36-3e34-4ca9-81fb-39a4021582ac",
+        "route_code": "route_01",
+        "route_name": "บ้านบอส > ปลายทาง ชาละวัน",
+        "schedule_start": "2021-08-23T17:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "2957dc17-0eea-4484-a6aa-1069f49a29ca",
+                "stop_code": "Car",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "บ้านบอส",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7249144,
+                        100.7334354
+                    ]
+                },
+                "latitude": 13.7249144,
+                "longitude": 100.7334354,
+                "created_date": "2021-08-23T07:23:14.9721594Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:23:14.9721597Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "fe570b56-1af5-4475-89e9-00a4c6b6d448",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "ป้ายรถเมล์หน้าหมู่บ้าน the thamm3",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7261494,
+                        100.7328487
+                    ]
+                },
+                "latitude": 13.7261494,
+                "longitude": 100.7328487,
+                "created_date": "2021-08-23T07:35:12.5722527Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:35:12.5722534Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "4fc7e7dd-b938-4242-ada5-8b2da38d9c30",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "หน้า the thamm 1",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7263359,
+                        100.7301654
+                    ]
+                },
+                "latitude": 13.7263359,
+                "longitude": 100.7301654,
+                "created_date": "2021-08-23T07:43:50.9084554Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:43:50.9084557Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "3f67d31d-b663-469e-88b4-c1e5eae6e84a",
+                "stop_code": "Bus",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "อพาท์เม้นสีชม",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        13.7268032,
+                        100.7271634
+                    ]
+                },
+                "latitude": 13.7268032,
+                "longitude": 100.7271634,
+                "created_date": "2021-08-23T07:46:33.1654101Z",
+                "created_by": null,
+                "updated_date": "2021-08-23T07:46:33.1654105Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-08-23T07:55:41.9643714Z",
+        "created_by": null,
+        "updated_date": "2021-08-23T07:55:41.9643715Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "ff2b3849-4fc1-49f2-a27e-5376f5da2550",
+        "route_code": "route_01",
+        "route_name": "Generic Steel Cheese",
+        "schedule_start": "2021-07-22T11:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "29a475ff-5b7d-4b80-a62d-4c28ac033503",
+                "stop_code": "Computer",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "Practical Steel Chair",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        -63.4039,
+                        129.9352
+                    ]
+                },
+                "latitude": 0,
+                "longitude": 0,
+                "created_date": "2021-08-09T05:46:20.254694Z",
+                "created_by": null,
+                "updated_date": "2021-08-09T05:46:20.254694Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "80dbafff-fe7d-4e2b-afdf-805c75bc1afd",
+                "stop_code": "Bike",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "Rustic Granite Computer",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        54.3143,
+                        84.8162
+                    ]
+                },
+                "latitude": 0,
+                "longitude": 0,
+                "created_date": "2021-08-09T08:05:04.916381Z",
+                "created_by": null,
+                "updated_date": "2021-08-09T08:05:04.936755Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-08-16T10:28:00.949915Z",
+        "created_by": null,
+        "updated_date": "2021-08-16T10:28:00.949916Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "a8cd3325-e51d-4648-a597-a6ad04f7d101",
+        "route_code": "route_01",
+        "route_name": "Awesome Frozen Salad",
+        "schedule_start": "2021-07-22T11:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "29a475ff-5b7d-4b80-a62d-4c28ac033503",
+                "stop_code": "Computer",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "Practical Steel Chair",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        -63.4039,
+                        129.9352
+                    ]
+                },
+                "latitude": 0,
+                "longitude": 0,
+                "created_date": "2021-08-09T05:46:20.254694Z",
+                "created_by": null,
+                "updated_date": "2021-08-09T05:46:20.254694Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "80dbafff-fe7d-4e2b-afdf-805c75bc1afd",
+                "stop_code": "Bike",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "Rustic Granite Computer",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        54.3143,
+                        84.8162
+                    ]
+                },
+                "latitude": 0,
+                "longitude": 0,
+                "created_date": "2021-08-09T08:05:04.916381Z",
+                "created_by": null,
+                "updated_date": "2021-08-09T08:05:04.936755Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-08-16T10:26:02.86389Z",
+        "created_by": null,
+        "updated_date": "2021-08-16T10:26:02.86389Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    },
+    {
+        "route_id": "d8231d2c-c57d-4bf8-aa5f-9faf1e93fca5",
+        "route_code": "route_01",
+        "route_name": "Small Rubber Gloves",
+        "schedule_start": "2021-07-22T11:00:00",
+        "vehicle_id": null,
+        "driver_id": null,
+        "route_stops": [
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "2e62364a-c90e-4c07-a629-798447167f96",
+                "stop_code": "Hat",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "Small Fresh Tuna",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        -29.5138,
+                        -116.539
+                    ]
+                },
+                "latitude": -29.5138,
+                "longitude": -116.539,
+                "created_date": "2021-08-09T08:13:51.019903Z",
+                "created_by": null,
+                "updated_date": "2021-08-09T08:13:51.020092Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            },
+            {
+                "arriving_expected_time": "0001-01-01T00:00:00",
+                "order_no": 0,
+                "stop_id": "80dbafff-fe7d-4e2b-afdf-805c75bc1afd",
+                "stop_code": "Bike",
+                "stop_type_code": 0,
+                "stop_type_name": null,
+                "stop_name": "Rustic Granite Computer",
+                "location": {
+                    "type": "Point",
+                    "coordinates": [
+                        54.3143,
+                        84.8162
+                    ]
+                },
+                "latitude": 0,
+                "longitude": 0,
+                "created_date": "2021-08-09T08:05:04.916381Z",
+                "created_by": null,
+                "updated_date": "2021-08-09T08:05:04.936755Z",
+                "updated_by": null,
+                "is_active": true,
+                "is_delete": false,
+                "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+            }
+        ],
+        "auto_create_trip": false,
+        "auto_assign_driver": false,
+        "auto_assign_vehicle": false,
+        "created_date": "2021-08-09T08:53:20.963176Z",
+        "created_by": null,
+        "updated_date": "2021-08-09T08:53:20.963177Z",
+        "updated_by": null,
+        "is_active": true,
+        "is_delete": false,
+        "tenant_id": "892ac7a3-1766-4602-b712-a9ce386269ed"
+    }
+]
